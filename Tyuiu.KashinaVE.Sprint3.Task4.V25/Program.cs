@@ -1,6 +1,6 @@
 ﻿ using Tyuiu.KashinaVE.Sprint3.Task4.V25.Lib;
 
-namespace Tyuiu.KashinaVe.Sprint3.Task4.V25
+namespace Tyuiu.KashinaVE.Sprint3.Task4.V25
 {
     class Program
     {

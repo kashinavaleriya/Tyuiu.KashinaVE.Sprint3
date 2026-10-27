@@ -1,6 +1,6 @@
 ﻿using Tyuiu.KashinaVE.Sprint3.Task5.V3.Lib;
 
-namespace Tyuiu.KashinaVe.Sprint3.Task5.V3
+namespace Tyuiu.KashinaVE.Sprint3.Task5.V3
 {
     class Program
     {
@@ -11,7 +11,7 @@ namespace Tyuiu.KashinaVe.Sprint3.Task5.V3
             Console.Title = "Спринт #3 | Выполнила: Кашина В. Е. | ИБКСб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Использование операторов continue и break в циклах                *");
+            Console.WriteLine("* Тема: Вложенные циклы                                                   *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #3                                                              *");
             Console.WriteLine("* Выполнила: Кашина Валерия Евгеньевна | ИБКСб-26-1                       *");
