@@ -34,4 +34,9 @@
     <Project Path="Tyuiu.KashinaVE.Sprint3.Task6.V7.Test/Tyuiu.KashinaVE.Sprint3.Task6.V7.Test.csproj" />
     <Project Path="Tyuiu.KashinaVE.Sprint3.Task6.V7/Tyuiu.KashinaVE.Sprint3.Task6.V7.csproj" />
   </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.KashinaVE.Sprint3.Task7.V2.Lib/Tyuiu.KashinaVE.Sprint3.Task7.V2.Lib.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint3.Task7.V2.Test/Tyuiu.KashinaVE.Sprint3.Task7.V2.Test.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint3.Task7.V2/Tyuiu.KashinaVE.Sprint3.Task7.V2.csproj" />
+  </Folder>
 </Solution>
